@@ -4,7 +4,6 @@ public class ArmstrongNumbers {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Armstrong Number");
 
 		int num=371;
 		int x;
